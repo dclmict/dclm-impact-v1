@@ -1,8 +1,0 @@
-_
-_dev
-portal
-database.php
-ignore.txt
-letter/.DS_Store
-
-rara.txt

@@ -6,3 +6,7 @@ database.php
 letter/.DS_Store
 
 rara.txt
+
+/*.zip
+/cache/temp/*.jpg
+/cache/letter/*.jpg

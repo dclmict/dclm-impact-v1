@@ -934,7 +934,9 @@ img.pull-right {
 
 .hero-speakers .banner-item {
   background-position: top center;
-  background-attachment: fixed; }
+  background-attachment: fixed; 
+  background-size: cover;
+}
   .hero-speakers .banner-item .banner-content-wrap {
     padding: 320px 0 180px; }
     .hero-speakers .banner-item .banner-content-wrap .banner-info {
